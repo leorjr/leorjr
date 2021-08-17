@@ -2,6 +2,12 @@
 
 Solucionar problemas através do código, para mim, é uma paixão que vem desde a minha adolescência. Em bagagem trago, também, alguns conhecimentos e experiências de outras áreas, o que me torna um profissional multidisciplinar e, acredito que este seja o meu maior diferencial.
 
+ <div>
+  <a href="https://github.com/leorjr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorjr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### Alguns projetos pessoais aos quais eu realizei ou fiz parte:
 #
  ##### 📌 Game Boy Advance:
@@ -35,6 +41,7 @@ https://order-summary-component-main-five.vercel.app/
 ☑️ Linux | Ubuntu
 ☑️ Nodejs | Express
 ☑️ Python
+☑️ Flask
 +
 ☑️ Mobile First
 ☑️ Metodologias Ágeis
@@ -48,5 +55,5 @@ https://order-summary-component-main-five.vercel.app/
 
 ✉️  l.grodriguesjr@gmail.com
 
-🤖  https://github.com/leorjr
 🤖  https://gitlab.com/leorjr
+
