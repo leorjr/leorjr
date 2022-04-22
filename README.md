@@ -44,10 +44,6 @@ https://devhealthy-sage.vercel.app/
 Plataforma de contratação e oferta de serviços educacionais, voltados para a área de tecnologia, utilizando HTML, CSS, JavaScript, React, Styled-Components, Context API, entre outras tecnologias;
 https://prestacao-de-servicos.vercel.app/
 
- ##### 📌 Component Card:
-Um card component criado em HTML e CSS, simples, a partir do desafio do https://www.frontendmentor.io;
-https://order-summary-component-main-five.vercel.app/
-
 #### - Hard Skills Obtidas:
 
 ☑️ JavaScript
