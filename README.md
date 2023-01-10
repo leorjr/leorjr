@@ -28,8 +28,8 @@ Solucionar problemas através do código, para mim, é uma paixão que vem desde
  <div> 
   <a href = "mailto:l.grodriguesjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leorjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send?phone=35194138623&text=Ol%C3%A1%2C%20L%C3%A9o!%20Acabo%20de%20ver%20seu%20perfil%20no%20github"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
+   <a href="https://api.whatsapp.com/send?phone=351914138623&text=Ol%C3%A1%2C%20L%C3%A9o!%20Acabo%20de%20ver%20seu%20perfil%20no%20github"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
