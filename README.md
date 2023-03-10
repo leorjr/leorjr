@@ -32,6 +32,8 @@ Solucionar problemas através do código, para mim, é uma paixão que vem desde
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b616faf03095180843b28d1af910554a3cee9533f404694c3d2a783303fdf069/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73696c617363617374726f267468656d653d746f6b796f6e69676874"><img src="https://camo.githubusercontent.com/b616faf03095180843b28d1af910554a3cee9533f404694c3d2a783303fdf069/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73696c617363617374726f267468656d653d746f6b796f6e69676874" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorjr&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
 
 #
  
