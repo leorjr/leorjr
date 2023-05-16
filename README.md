@@ -35,7 +35,7 @@ Solucionar problemas através do código, para mim, é uma paixão que vem desde
 
 #
  
- ### Alguns projetos pessoais aos quais eu realizei ou fiz parte:
+<!--  ### Alguns projetos pessoais aos quais eu realizei ou fiz parte:
  
  ##### 📌 Game Boy Advance:
 Cartoon de um console do Game Boy Advance, totalmente feito em HTML, CSS e javascript.
@@ -47,9 +47,9 @@ https://devhealthy-sage.vercel.app/
 
  ##### 📌 ClassAPP:
 Plataforma de contratação e oferta de serviços educacionais, voltados para a área de tecnologia, utilizando HTML, CSS, JavaScript, React, Styled-Components, Context API, entre outras tecnologias;
-https://prestacao-de-servicos.vercel.app/
+https://prestacao-de-servicos.vercel.app/ -->
 
-#### - Hard Skills Obtidas:
+<!-- #### - Hard Skills Obtidas:
 
 ☑️ JavaScript
 ☑️ ReactJs
@@ -69,7 +69,7 @@ https://prestacao-de-servicos.vercel.app/
  +
 ☑️ Metodologias Ágeis
 ☑️ TDD
-☑️ Noções de UX/UI Design
+☑️ Noções de UX/UI Design -->
 
 #
 <!-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas; <br>
