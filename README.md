@@ -1,6 +1,6 @@
 ### 🚀 < Hello world ! /> ⚛️
-
-Solucionar problemas através do código, para mim, é uma paixão que vem desde a minha adolescência. Em bagagem trago, também, alguns conhecimentos e experiências de outras áreas, o que me torna um profissional multidisciplinar e, acredito que este seja o meu maior diferencial.
+<!-- 
+Solucionar problemas através do código, para mim, é uma paixão que vem desde a minha adolescência. Em bagagem trago, também, alguns conhecimentos e experiências de outras áreas, o que me torna um profissional multidisciplinar e, acredito que este seja o meu maior diferencial. -->
 
  <div>
   <a href="https://github.com/leorjr">
