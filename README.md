@@ -26,7 +26,7 @@ Solucionar problemas através do código, para mim, é uma paixão que vem desde
 ##
  <div> 
   <a href = "mailto:l.grodriguesjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leorjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.linkedin.com/in/leorjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
    <a href="https://api.whatsapp.com/send?phone=351914138623&text=Ol%C3%A1%2C%20L%C3%A9o!%20Acabo%20de%20ver%20seu%20perfil%20no%20github"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
@@ -72,9 +72,9 @@ https://prestacao-de-servicos.vercel.app/
 ☑️ Noções de UX/UI Design
 
 #
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas; <br>
+<!-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas; <br>
 🎓 MBA em Ciência de Dados e Big Data Analytics; <br>
-🎓 MBA em Gestão Financeira e Controladoria; <br>
+🎓 MBA em Gestão Financeira e Controladoria; <br> -->
 
-🤖  https://gitlab.com/leorjr
+<!-- 🤖  https://gitlab.com/leorjr -->
 
